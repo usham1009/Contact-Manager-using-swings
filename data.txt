@@ -1,0 +1,6 @@
+guru;g;mahesh;45236871;mallwrm;sampige;bangalore;KA;560008;M;guru.m@gmail.com;INDIA;
+aiswarya;c;kadal;789654123;pepper place;chase;Richardson;TX;5632897;F;aiswaryasea@yahoo.com;USA;
+jaya;s;jaya;578964123;pp;tomthumb opp;richardson;tx;785220;F;jayakumari@hotmail.com;USA;
+ranjani;r;ranju;563214789;sampige;mwm;bangalore;KA;2563148;F;ranju123@rediff.com;India;
+jaya;s;kumari;5624555;ksjje;kdfjlkf;rich;TX;566324;F;jaya@gmail.com;China;
+shanthi;s;shashi;256314789;maimi;789;bangalore;ka;56008;F;shashi@yahoo.com;India;
